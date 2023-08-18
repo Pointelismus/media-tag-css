@@ -18,6 +18,7 @@
 |not	|Das Schlüsselwort "not" kehrt die Bedeutung einer gesamten Medienabfrage um.|
 |only	|Das Schlüsselwort "only" verhindert, dass ältere Browser, die Medienabfragen mit Medienfunktionen nicht unterstützen, die angegebenen Stile anwenden. Es hat keine Auswirkungen auf moderne Browser.|
 |and 	|Das Schlüsselwort "and" kombiniert eine Medienfunktion mit einem Medientyp oder anderen Medienfunktionen.|
+
 ***Alle sind optional. Wenn du jedoch "not" oder "only" verwendest, musst du einen Medientyp angeben!***
 
 ## Browser Support
